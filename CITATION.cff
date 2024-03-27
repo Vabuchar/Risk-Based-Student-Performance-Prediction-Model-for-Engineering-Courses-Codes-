@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Abuchar"
+  given-names: "Veronica"
+  orcid: "https://orcid.org/0000-0002-4594-3040"
+- family-names: "Arteta"
+  given-names: "Carlos"
+  orcid: "https://orcid.org/0000-0001-5630-8387"
+title: "Risk Based Student Performance Prediction Model for Engineering Courses"
+version: 1.0.0
+doi: 10.5281/zenodo.10888244
+date-released: 2024-03-27
+url: "https://github.com/Vabuchar/Risk-Based-Student-Performance-Prediction-Model-for-Engineering-Courses-Codes-"
